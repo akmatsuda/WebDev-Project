@@ -1,0 +1,112 @@
+.header {
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    color: darkolivegreen;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 90px;
+    left: 20px;
+    right: 20px;
+}
+
+.link {
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkolivegreen;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top:10px;
+    height: 50px;
+    right: 20px;
+    width: 500px;
+}
+
+.common {
+    background-color:antiquewhite;
+    border: 2px solid darkolivegreen;
+    position: absolute;
+}
+
+.content {
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategray;
+    top: 180px;
+    left: 350px;
+    width: 525px;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.list {
+    font-weight: normal;
+    font-style: normal;
+}
+
+.headshot {
+    top: 180px;
+    left: 20px;
+    padding: 30px;
+}
+
+.video {
+    top: 180px;
+    right: 20px;
+    height: 304px;
+    width: 460px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tableau {
+    top:570px;
+    left: 12px;
+    width: 1375px;
+    bottom: 100px;
+    padding: 10px;
+}
+
+.bottom {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: darkolivegreen;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 20px;
+    width: 250px;
+    bottom: 10px;
+    height: 50px;
+}
+
+.background {
+    background-image:url(../assets/img/Clover_Background.jpeg);
+    background-size: cover;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fix {
+    color: antiquewhite;
+}
+
+.space {
+    padding-top: 18px;
+}
